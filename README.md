@@ -3,10 +3,11 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
+
 # Please make sure to add your own google api key.
 # Plese make sure to change lat long of dealers nearest to you for testing in ==>> /src/utils/constants.ts
 # Adujust these values for testing purpose MINIMUM_RADIUS_TO_REGISTER_CHEKIN_METER, MINIMUM_RADIUS_TO_REGISTER_CHEKOUT_IN_METER.
-
+# Please Ignore the data values that are already seeded, they ara random values hence not logical, but in real case scenario it will give logical values.
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
